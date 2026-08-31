@@ -1,2 +1,3 @@
 # Aulas-Python
-This only a project to my own learning. Improving my skills at english and python. Those things are about class of my school. If you want to see it, and say something to upgrade I thank you
+
+This is just a project for my own learning, aimed at improving my English and Python skills. The content is related to my school classes. If you'd like to check it out and have any suggestions for improvement, I’d appreciate it.
